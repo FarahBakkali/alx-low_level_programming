@@ -1,8 +1,12 @@
 #include "main.h"
 /**
- * es un codigo de nada
+ * _islower:- show 1 if the input is a letter
+ * Anoter cases shows 0
+ *
+ * @c: The character is ASCII code
+ *
+ * Return: 1 for letters. 0 for the rest.
  */
-
 int _islower(int c)
 {
 	if (c >= 97 && c <= 122)

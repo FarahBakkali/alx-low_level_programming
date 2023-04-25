@@ -1,4 +1,7 @@
 #include "main.h"
+/**
+ * es un codigo de nada
+ */
 
 int _islower(int c)
 {
